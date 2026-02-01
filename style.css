@@ -79,20 +79,23 @@ h1, h2 {
 
 .buttons {
   display: flex;
-  gap: 12px;
+  gap: 14px;           /* slightly more space */
   justify-content: center;
   flex-wrap: wrap;
-  margin-top: 20px;
+  margin-top: 24px;
 }
 
 button {
   background: linear-gradient(45deg,#E63946,#F1A9A0);
- color: white;
+  color: white;
   border: none;
-  padding: 10px 20px;
+
+  padding: 14px 28px;  /* ⬅ bigger button */
   border-radius: 999px;
   cursor: pointer;
-  font-size: 16px;
+
+  font-size: 18px;     /* ⬅ bigger text */
+  font-weight: 500;
 
   transform: scale(1);
   transition: all 0.25s ease;
@@ -364,4 +367,5 @@ background: url("fun.gif") center/cover no-repeat;
     opacity: 1;
   }
 }
+
 
