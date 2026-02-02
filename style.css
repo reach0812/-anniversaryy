@@ -143,8 +143,8 @@ background: url("fun.gif") center/cover no-repeat;
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
-  gap: 20px;
-  margin-top: 40px;
+  gap: 25px;
+  margin-top: 45px;
 }
 
 .photo img {
@@ -367,5 +367,6 @@ background: url("fun.gif") center/cover no-repeat;
     opacity: 1;
   }
 }
+
 
 
