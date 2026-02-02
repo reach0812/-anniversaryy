@@ -159,6 +159,8 @@ background: url("fun.gif") center/cover no-repeat;
 }
 
 .cards {
+   background: black;
+  color: #020617;
   display: flex;
   justify-content: center;
   gap: 20px;
@@ -166,7 +168,7 @@ background: url("fun.gif") center/cover no-repeat;
 }
 
 .card {
-  background: white;
+  background: black;
   color: #020617;
   padding: 7px;
   border-radius: 16px;
@@ -367,6 +369,7 @@ background: url("fun.gif") center/cover no-repeat;
     opacity: 1;
   }
 }
+
 
 
 
