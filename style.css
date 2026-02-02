@@ -4,7 +4,7 @@ body {
 
   margin: 0;
   font-family: 'Inter', sans-serif;
-   background:url("memories-bg.gif") center/cover no-repeat;
+   background:url("fun.gif") center/cover no-repeat;
   color: #f3f5f7;
   text-align: center;
   .hero {
@@ -266,7 +266,7 @@ background: url("fun.gif") center/cover no-repeat;
 /* MEMORIES SECTION BACKGROUND GIF */
 .memories-bg {
   position: relative;
-  background: url("memories-bg.gif") center / cover no-repeat;
+  background: url("fun.gif") center / cover no-repeat;
   padding: 80px 20px;
   overflow: hidden;
 }
@@ -367,6 +367,7 @@ background: url("fun.gif") center/cover no-repeat;
     opacity: 1;
   }
 }
+
 
 
 
