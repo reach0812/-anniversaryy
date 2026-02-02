@@ -33,7 +33,7 @@ h1, h2 {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: white;
+  color: black;
   text-align: center;
   font-family: 'Playfair Display', serif;
   overflow: hidden;
@@ -175,7 +175,7 @@ background: url("fun.gif") center/cover no-repeat;
 
 .letter-box {
   background: linear-gradient(135deg,#edacb1,#efdba8,#d1b8ba);
-  color: #020617;
+  color: black;
   max-width: 600px;
   margin: auto;
   padding: 40px;
@@ -367,6 +367,7 @@ background: url("fun.gif") center/cover no-repeat;
     opacity: 1;
   }
 }
+
 
 
 
