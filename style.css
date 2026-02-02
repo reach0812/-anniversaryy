@@ -22,6 +22,8 @@ body {
 
 h1, h2 {
   font-family: 'Playfair Display', serif;
+  background: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
 }
 
 .hero {
@@ -369,6 +371,7 @@ background: url("fun.gif") center/cover no-repeat;
     opacity: 1;
   }
 }
+
 
 
 
